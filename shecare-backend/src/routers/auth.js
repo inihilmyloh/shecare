@@ -1,0 +1,53 @@
+const express = require('express');
+const router = express.Router();
+const { body } = require('express-validator');
+const { validate } = require('../middleware/validation');
+const { protect } = require('../middleware/auth');
+const {
+    register,
+    login,
+    getMe,
+    logout
+} = require('../controllers/authController');
+
+/**
+ * @route   POST /api/auth/register
+ * @desc    Register new user
+ * @access  Public
+ */
+router.post('/register', [
+    body('name').trim().notEmpty().withMessage('Name is required'),
+    body('email').isEmail().withMessage('Valid email is required'),
+    body('password')
+        .isLength({ min: 6 })
+        .withMessage('Password must be at least 6 characters'),
+    body('phone').optional().trim(),
+    validate
+], register);
+
+/**
+ * @route   POST /api/auth/login
+ * @desc    Login user
+ * @access  Public
+ */
+router.post('/login', [
+    body('email').isEmail().withMessage('Valid email is required'),
+    body('password').notEmpty().withMessage('Password is required'),
+    validate
+], login);
+
+/**
+ * @route   GET /api/auth/me
+ * @desc    Get current logged in user
+ * @access  Private
+ */
+router.get('/me', protect, getMe);
+
+/**
+ * @route   POST /api/auth/logout
+ * @desc    Logout user
+ * @access  Private
+ */
+router.post('/logout', protect, logout);
+
+module.exports = router;
