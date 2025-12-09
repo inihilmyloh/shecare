@@ -1,0 +1,74 @@
+[07-Dec-2025 15:37:26 UTC] PHP Warning:  Undefined array key "DATABASE_HOST" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:37:26 UTC] PHP Warning:  Undefined array key "DATABASE_USERNAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:37:26 UTC] PHP Warning:  Undefined array key "DATABASE_PASSWORD" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:37:26 UTC] PHP Warning:  Undefined array key "DATABASE_NAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:37:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php:3
+Stack trace:
+#0 /home/mifmyho2/shecare.mif.myhost.id/config/connection.php(3): mysqli->__construct()
+#1 /home/mifmyho2/shecare.mif.myhost.id/index.php(2): include('/home/mifmyho2/...')
+#2 {main}
+  thrown in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:42:06 UTC] PHP Warning:  Undefined array key "DATABASE_HOST" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:42:06 UTC] PHP Warning:  Undefined array key "DATABASE_USERNAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:42:06 UTC] PHP Warning:  Undefined array key "DATABASE_PASSWORD" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:42:06 UTC] PHP Warning:  Undefined array key "DATABASE_NAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:42:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php:3
+Stack trace:
+#0 /home/mifmyho2/shecare.mif.myhost.id/config/connection.php(3): mysqli->__construct()
+#1 /home/mifmyho2/shecare.mif.myhost.id/index.php(2): include('/home/mifmyho2/...')
+#2 {main}
+  thrown in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:49:23 UTC] PHP Warning:  Undefined array key "DATABASE_HOST" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:49:23 UTC] PHP Warning:  Undefined array key "DATABASE_USERNAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:49:23 UTC] PHP Warning:  Undefined array key "DATABASE_PASSWORD" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:49:23 UTC] PHP Warning:  Undefined array key "DATABASE_NAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 15:49:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php:3
+Stack trace:
+#0 /home/mifmyho2/shecare.mif.myhost.id/config/connection.php(3): mysqli->__construct()
+#1 /home/mifmyho2/shecare.mif.myhost.id/index.php(2): include('/home/mifmyho2/...')
+#2 {main}
+  thrown in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:08:32 UTC] PHP Warning:  Undefined array key "DATABASE_HOST" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:08:32 UTC] PHP Warning:  Undefined array key "DATABASE_USERNAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:08:32 UTC] PHP Warning:  Undefined array key "DATABASE_PASSWORD" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:08:32 UTC] PHP Warning:  Undefined array key "DATABASE_NAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:08:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php:3
+Stack trace:
+#0 /home/mifmyho2/shecare.mif.myhost.id/config/connection.php(3): mysqli->__construct()
+#1 /home/mifmyho2/shecare.mif.myhost.id/index.php(2): include('/home/mifmyho2/...')
+#2 {main}
+  thrown in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:09 UTC] PHP Warning:  Undefined array key "DATABASE_HOST" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:09 UTC] PHP Warning:  Undefined array key "DATABASE_USERNAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:09 UTC] PHP Warning:  Undefined array key "DATABASE_PASSWORD" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:09 UTC] PHP Warning:  Undefined array key "DATABASE_NAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php:3
+Stack trace:
+#0 /home/mifmyho2/shecare.mif.myhost.id/config/connection.php(3): mysqli->__construct()
+#1 /home/mifmyho2/shecare.mif.myhost.id/index.php(2): include('/home/mifmyho2/...')
+#2 {main}
+  thrown in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:10 UTC] PHP Warning:  Undefined array key "DATABASE_HOST" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:10 UTC] PHP Warning:  Undefined array key "DATABASE_USERNAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:10 UTC] PHP Warning:  Undefined array key "DATABASE_PASSWORD" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:10 UTC] PHP Warning:  Undefined array key "DATABASE_NAME" in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:09:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php:3
+Stack trace:
+#0 /home/mifmyho2/shecare.mif.myhost.id/config/connection.php(3): mysqli->__construct()
+#1 /home/mifmyho2/shecare.mif.myhost.id/index.php(2): include('/home/mifmyho2/...')
+#2 {main}
+  thrown in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 3
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Undefined variable $env in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Undefined variable $env in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Undefined variable $env in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Undefined variable $env in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13
+[07-Dec-2025 16:16:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php:13
+Stack trace:
+#0 /home/mifmyho2/shecare.mif.myhost.id/config/connection.php(13): mysqli_connect()
+#1 /home/mifmyho2/shecare.mif.myhost.id/index.php(2): include('/home/mifmyho2/...')
+#2 {main}
+  thrown in /home/mifmyho2/shecare.mif.myhost.id/config/connection.php on line 13

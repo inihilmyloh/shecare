@@ -1,0 +1,20 @@
+[07-Dec-2025 16:25:52 UTC] Raw jawaban: {"pertanyaan_1": "2"}
+[07-Dec-2025 16:25:52 UTC] Decoded jawaban: {"pertanyaan_1":"2"}
+[07-Dec-2025 16:25:52 UTC] Is array: yes
+[07-Dec-2025 16:25:52 UTC] Pertanyaan map: {"pertanyaan_1":"Nyoba"}
+[07-Dec-2025 16:25:52 UTC] Jawaban array: [{"key":"pertanyaan_1","pertanyaan":"Nyoba","nilai":"2","deskripsi":"Jarang"}]
+[07-Dec-2025 16:25:55 UTC] Raw jawaban: {"pertanyaan_1": "3"}
+[07-Dec-2025 16:25:55 UTC] Decoded jawaban: {"pertanyaan_1":"3"}
+[07-Dec-2025 16:25:55 UTC] Is array: yes
+[07-Dec-2025 16:25:55 UTC] Pertanyaan map: {"pertanyaan_1":"Nyoba"}
+[07-Dec-2025 16:25:55 UTC] Jawaban array: [{"key":"pertanyaan_1","pertanyaan":"Nyoba","nilai":"3","deskripsi":"Kadang-kadang"}]
+[07-Dec-2025 16:25:58 UTC] Raw jawaban: {"pertanyaan_1": "3"}
+[07-Dec-2025 16:25:58 UTC] Decoded jawaban: {"pertanyaan_1":"3"}
+[07-Dec-2025 16:25:58 UTC] Is array: yes
+[07-Dec-2025 16:25:58 UTC] Pertanyaan map: {"pertanyaan_1":"Nyoba"}
+[07-Dec-2025 16:25:58 UTC] Jawaban array: [{"key":"pertanyaan_1","pertanyaan":"Nyoba","nilai":"3","deskripsi":"Kadang-kadang"}]
+[07-Dec-2025 16:26:01 UTC] Raw jawaban: {"pertanyaan_1": "2"}
+[07-Dec-2025 16:26:01 UTC] Decoded jawaban: {"pertanyaan_1":"2"}
+[07-Dec-2025 16:26:01 UTC] Is array: yes
+[07-Dec-2025 16:26:01 UTC] Pertanyaan map: {"pertanyaan_1":"Nyoba"}
+[07-Dec-2025 16:26:01 UTC] Jawaban array: [{"key":"pertanyaan_1","pertanyaan":"Nyoba","nilai":"2","deskripsi":"Jarang"}]
